@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Not included
+Practice.ipynb
+Mission_backup.py
+scraper.py
+
 # C extensions
 *.so
 
