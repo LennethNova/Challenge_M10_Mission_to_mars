@@ -7,6 +7,9 @@ __pycache__/
 Practice.ipynb
 Mission_backup.py
 scraper.py
+index_act.html
+Mission_to_Mars_Challenge_starter_core.ipynb
+Mission_to_Mars.ipynb
 
 # C extensions
 *.so
